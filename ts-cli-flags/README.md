@@ -22,7 +22,6 @@ try {
 console.log({
   mature: mature.value,
   name: name.value,
-  surname: surname.value,
   age: age.value,
   birthday: birthday.value,
 });
